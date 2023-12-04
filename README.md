@@ -11,7 +11,7 @@ Sequenced reads were mapped to the human reference genome (GRCh38) with HISAT262
 
 Sequencing quality validation and verification. From 64 samples, 4.4 billion reads were generated, of which 83% mapped to the reference genome. Estimation of experimental power of our dataset indicates a >80% power to detect genes with greater than two-fold change in expression at p<0.01 (Fig. S3a).28 After quantile normalization, all samples exhibited consistent expression and distribution as measured by gene abundance and density (Figures S3b, S3c) respectively. The accuracy of our analysis pipeline was verified and differential expression was measured between placental samples from males and females (Fig. S4a). Of 53 differentially expressed genes detected in this comparison, 36 were located on the Y chromosome and displayed higher expression in the male samples (Fig. S4b). Eight of the genes were located on the X chromosome, of which six were more highly expressed in females, including the X Inactive Specific Transcript (XIST) gene.
 
-GEO Contents: The bulk RNA-seq data have been deposited to the Gene Expression Omnibus (GEO accession GSEXXXXXX).
+GEO Contents: The bulk RNA-seq data have been deposited to the Gene Expression Omnibus (GEO accession GSE249311).
 
 # Repository Contents
 
